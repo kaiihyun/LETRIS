@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"letris_bgm",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":285.18747,
+  "exportDir":"",
+  "name":"letris_bgm",
+  "parent":{
+    "name":"SOUNDS",
+    "path":"folders/SOUNDS.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"letris_bgm.mp3",
+  "volume":1.0,
+}

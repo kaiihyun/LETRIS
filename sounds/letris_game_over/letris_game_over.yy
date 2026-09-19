@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"letris_game_over",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":6.037188,
+  "exportDir":"",
+  "name":"letris_game_over",
+  "parent":{
+    "name":"SOUNDS",
+    "path":"folders/SOUNDS.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"letris_game_over.mp3",
+  "volume":1.0,
+}
